@@ -1,11 +1,11 @@
 <h1 align="center">Hi ꩜, I'm bw</h1>
-<h3 align="center"> 🧐 professional idiot // silver surfer 🥈🏄</h3>
+<h3 align="center"> 🧐 professional idiot || silver surfer 🥈🏄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzbw&label=Profile%20views&color=0e75b6&style=flat" alt="itzbw" /> </p>
 
 - 🌱 I’m currently learning **C**
 
-- ⚡ Fun fact **Mom of two Guinea Pigs 🐹: <a href="https://www.youtube.com/channel/UCqjq9Y6x3rXWgqLXFOXsWdg">Britney Pear & Brigette Marron</a>**
+- ⚡ Fun fact **Mom of two Guinea Pigs 🐹: <a href="https://www.youtube.com/channel/UCqjq9Y6x3rXWgqLXFOXsWdg">Britney Pear 🍐 & Brigette Marron </a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

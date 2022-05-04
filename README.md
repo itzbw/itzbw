@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- ⚡ Fun fact **Mom of two Guinea Pigs: <a href="https://www.youtube.com/channel/UCqjq9Y6x3rXWgqLXFOXsWdg">Britney Pear & Brigette Marrant</a>**
+- ⚡ Fun fact **Mom of two Guinea Pigs: <a href="https://www.youtube.com/channel/UCqjq9Y6x3rXWgqLXFOXsWdg">Britney Pear & Brigette Marron</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

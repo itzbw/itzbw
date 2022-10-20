@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzbw&label=Profile%20views&color=0e75b6&style=flat" alt="itzbw" /> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C** and **JavaScript**
 
 - ⚡ Fun fact **Mom of two Guinea Pigs 🐹: <a href="https://www.youtube.com/channel/UCqjq9Y6x3rXWgqLXFOXsWdg">Britney Pear 🍐 & Brigette Marron </a>**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi ꩜, I'm bw</h1>
+<h1 align="center">Hi, I'm bw</h1>
 <h3 align="center"> 🧐 professional idiot || silver surfer 🥈🏄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzbw&label=Profile%20views&color=0e75b6&style=flat" alt="itzbw" /> </p>

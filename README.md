@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C** and **JavaScript**
 
-- ⚡ Fun fact **Mom of two Guinea Pigs 🐹: <a href="https://instagram.com/wheeky.bb">Britney Pear 🍐 & Brigette Marron </a>**
+- ⚡ Fun fact **Mom of two Guinea Pigs 🐹: <a href="https://www.instagram.com/wheeky.bb/reels/">Britney Pear 🍐 & Brigette Marron </a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

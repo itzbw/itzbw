@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzbw&show_icons=true&locale=en" alt="itzbw" />
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3onrnbq001109mr7phc24c3/stats?cursusId=21&coalitionId=47" alt="bwong's 42 stats" /></a>
+
 </p>

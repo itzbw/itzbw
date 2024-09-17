@@ -15,7 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          GIT_EMAIL: thebw.42@pm.me
       - name: Commit & Push
         run: |
           git config user.name github-actions
